@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Konachan</string>
+    <string name="save">&#xf0c7;</string>
+    <string name="info">&#xf05a;</string>
+</resources>
