@@ -41,6 +41,8 @@ public class BaseActivity extends AppCompatActivity {
             case R.id.menu_setting:
                 runFragment(new SettingFragment());
                 break;
+            case R.id.aboutMe:
+                Toast.makeText(this, "点击了关于", Toast.LENGTH_SHORT).show();
         }
         return true;
     }
